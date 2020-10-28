@@ -2,7 +2,7 @@
 #### My simple tank battle game
 
 
-**You** | **Enemy**;
+**Game** | **Screenshots**
 :-------------------------:|:-------------------------:
 <img src="pictures/img_001.png" alt="screenshot1" width="400"/> | <img src="pictures/img_002.png" alt="screenshot1" width="400"/>
 <img src="pictures/img_003.png" alt="screenshot1" width="400"/> | <img src="pictures/img_004.png" alt="screenshot1" width="400"/>
