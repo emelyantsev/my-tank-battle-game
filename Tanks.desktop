@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=0.0.1
+Type=Application
+Terminal=false
+Exec=/home/aleksey/Coding/sfml/my-tank-battle-game/build_ubuntu/game.out
+Name=Tanks
+Comment=Tanks_comment
+Icon=/home/aleksey/Coding/sfml/my-tank-battle-game/build_ubuntu/icon-256.png

@@ -1,0 +1,10 @@
+Package: mytanksgame
+Version: 0.0.1
+Section: custom
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 345128
+Maintainer: aleks.twin@gmail.com
+Description: Simple tank battle game
+Depends: libsfml-dev (>= 2.4.2)
