@@ -13,9 +13,9 @@ game states, inheritance, collision detection, obstacles with different properti
 Feel free to improve the game. There are so many ways to do it:
 - game logic,
 - add more entities,
-- add more collisions and events,
+- add more precise collisions and events,
 - add more sounds with spatialization,
-- add textures and animataion,
+- add textures and animation,
 - improve ai behavior strategy of the enemy,
 and of course,
 - network game.
