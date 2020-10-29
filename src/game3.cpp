@@ -3,9 +3,9 @@
 #include <iostream>
 
 
-#include "txt_resources\images\image01.png.hpp"
-#include "txt_resources\sounds\aexp2.wav.hpp"
-#include "txt_resources\sounds\Gun_Silencer.wav.hpp"
+#include "txt_resources/images/image01.png.hpp"
+#include "txt_resources/sounds/aexp2.wav.hpp"
+#include "txt_resources/sounds/Gun_Silencer.wav.hpp"
 
 void Game::PrepareMenu() {
 

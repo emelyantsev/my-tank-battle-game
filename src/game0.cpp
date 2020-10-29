@@ -4,7 +4,9 @@
 #include <ctime>
 #include <string>
 
-#include "txt_resources\fonts\ARCADE.TTF.hpp"
+
+#include <cmath>
+#include "txt_resources/fonts/ARCADE.TTF.hpp"
 
 Game::Game() : 
     

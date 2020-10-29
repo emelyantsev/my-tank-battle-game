@@ -37,6 +37,7 @@
 
 
 build
+build_ubuntu
 
 .vscode/*
 !.vscode/settings.json

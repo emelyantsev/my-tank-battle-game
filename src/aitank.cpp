@@ -1,6 +1,7 @@
 #include "aitank.h"
 
 #include <iostream>
+#include <cmath>
 
 #include "game.h"
 
